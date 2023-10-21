@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pouria</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img aling="right" alt="coding" width="400" src="https://i.gifer.com/6tXM.gif">
+<img aling="right" alt="coding" width="400" src="i.gifer.com/6tXM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouriavelaei&label=Profile%20views&color=0e75b6&style=flat" alt="pouriavelaei" /> </p>
 
