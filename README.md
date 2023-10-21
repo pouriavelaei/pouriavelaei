@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pouria</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<div style="text-align: center;">
-    <img alt="coding.." width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
-</div>
+<div style="text-align: center;"><img alt="coding.." width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term="></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pouriavelaei&label=Profile%20views&color=0e75b6&style=flat" alt="pouriavelaei" /> </p>
 
 <p align="left"> <a href="https://twitter.com/david_np_forever" target="blank"><img src="https://img.shields.io/twitter/follow/david_np_forever?logo=twitter&style=for-the-badge" alt="david_np_forever" /></a> </p>
