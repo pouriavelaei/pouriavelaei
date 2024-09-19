@@ -40,4 +40,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouriavelaei&show_icons=true&locale=en&layout=compact" alt="pouriavelaei" /></p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pouriavelaei.pouriavelaei" />
+
