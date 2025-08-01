@@ -25,10 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pooryavelaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryavelaei" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18455187/poorya-velaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="poorya_velaei" height="30" width="40" /></a>
-<a href="https://hashnode.com/@pouriavelaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pouriavelaei" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@David_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="david_programmer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wolfhares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wolfhares" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pouriavelaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pouriavelaei" height="30" width="40" /></a>
 <a href="https://discord.gg/poorya.v#5597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="poorya.v#5597" height="30" width="40" /></a>
 </p>
 
