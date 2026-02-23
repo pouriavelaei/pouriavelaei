@@ -53,8 +53,6 @@ and exploring network automation with Python.
 
 ### 📫 Connect With Me
 
-### 📫 Connect With Me
-
 <p>
   <a href="https://linkedin.com/in/pooryavelaei" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
