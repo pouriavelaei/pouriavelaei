@@ -4,28 +4,29 @@
 <h4 align="center">Aspiring Network Engineer | CCNA Journey</h4>
 
 <p align="center">
-Building networking labs, learning routing & switching, and exploring network automation with Python.
+Focused on building practical networking labs, mastering routing & switching,  
+and exploring network automation with Python.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 University student focused on Networking
-- 📡 Currently studying for CCNA
-- 🐧 Linux user
+- 🎓 University student specializing in Networking
+- 📚 Currently preparing for the CCNA certification
+- 🐧 Daily Linux user (CLI-focused workflow)
 - 🐍 Learning Python for network automation
-- 🧠 Documenting my networking journey
+- 🧠 Passionate about simplifying complex networking concepts
 
 ---
 
-### 🔬 Current Focus
+### 🔬 Current Learning Focus
 
 - IPv4 Addressing & Subnetting
-- Routing & Switching Fundamentals
 - VLANs & Network Segmentation
-- Network Labs (Packet Tracer / GNS3)
-- Automation Basics with Python
+- Static & Dynamic Routing Fundamentals
+- CCNA Lab Practice (Packet Tracer / GNS3)
+- Basic Network Automation with Python
 
 ---
 
@@ -36,16 +37,17 @@ Building networking labs, learning routing & switching, and exploring network au
 </p>
 
 - Cisco Packet Tracer  
-- Linux (CLI-focused workflow)  
-- Python (network scripting)  
+- Linux Environment  
+- Python (network scripting basics)  
+- Git & GitHub  
 
 ---
 
-### 📂 Highlighted Projects
+### 📂 Highlighted Work
 
-- 📡 Networking Labs (CCNA Practice)
-- 🧮 Subnetting Practice Tools
-- 🔧 Network Automation Scripts
+- 📡 CCNA Networking Labs (Hands-on practice)
+- 🧮 Subnetting & IP Calculation Exercises
+- 🔧 Small Network Automation Scripts
 
 ---
 
@@ -57,4 +59,4 @@ Building networking labs, learning routing & switching, and exploring network au
 </a>
 </p>
 
-📧 Professional email recommended (Gmail suggested)
+📧 Email: poorya_velaei@yahoo.com
